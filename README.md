@@ -13,6 +13,7 @@ The dataset consists of 11 independent features and a target column (`quality`),
 - `0 → Bad Quality`
 
 The dataset contains no missing values.
+It is downloaded from - https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ## Methodology
 
